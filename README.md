@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 8 号添加
 
+#### zhouwan9001
+* :white_check_mark: [MusicAura AI](https://musicaura.ai)：AI 音乐生成器，把情绪、场景、歌词或文字提示变成原创歌曲和背景音乐，支持试听和下载
+
+#### alexyuetmout - [Github](https://github.com/alexyuetmout)
+* :white_check_mark: [CraftMusic AI](https://craftmusic.ai/)：AI 音乐和歌词生成器，从提示词、歌词想法或项目需求生成歌曲与纯音乐，支持风格控制、草稿比较和下载
+
 #### andytu8866(深圳) - Github
 * :white_check_mark:  [BGChanger - AI 视频背景移除与换脸](https://bgchanger.video)：在浏览器中一键替换或移除视频背景，支持高精度 AI 换脸与基础视频剪辑，无需安装客户端与绿幕。
 
