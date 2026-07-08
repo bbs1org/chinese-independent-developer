@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 8 号添加
 
+#### fanbidog - [Github](https://github.com/fanbidog)
+* :white_check_mark: [OkkMax](https://www.okkmax.com/)：AI API 中转站评测与监测工具，聚合模型纯度、在线率、延迟、价格、用户点评和福利活动 - [更多介绍](https://github.com/fanbidog/okkmax-web)
+
 #### zhouwan9001
 * :white_check_mark: [MusicAura AI](https://musicaura.ai)：AI 音乐生成器，把情绪、场景、歌词或文字提示变成原创歌曲和背景音乐，支持试听和下载
 
