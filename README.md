@@ -32,6 +32,9 @@
 #### newbietan - [Github](https://github.com/newbietan)
 * :white_check_mark: [CloudSSH](https://ssh.newbietan.cn)：打开浏览器即可连接和管理自己的所有服务器，连接信息云端同步，内置 SFTP 文件管理与 AI 运维助手 - [更多介绍](https://github.com/newbietan/CloudSSH)
 
+#### Sallyn - [Github](https://github.com/Sallyn0225)
+* :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
+
 ### 2026 年 7 月 14 号添加
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
