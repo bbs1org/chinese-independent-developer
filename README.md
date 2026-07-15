@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### bbs1org - [Github](https://github.com/bbs1org)
+* :white_check_mark: [单文件PHP论坛](https://github.com/bbs1org/bbs1org/releases/latest)：单文件极其轻量级的纯原生 PHP 论坛系统。BBS1Org 使用 PHP + SQLite 构建，不依赖框架、不依赖构建工具，核心代码仅 200KB，小巧、高效、易部署 - [查看仓库](https://github.com/bbs1org/bbs1org)
+
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
 * :white_check_mark: [123pan](https://github.com/123panNextGen/123pan/releases/latest)：开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)
 
